@@ -10,6 +10,6 @@ int main()
 	cin >> b;
 
 	float x = a + b;
-	float y;
+	float y = 9;
 
 }
